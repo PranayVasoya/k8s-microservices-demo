@@ -1,3 +1,3 @@
-# Bookinub - Microservices Demo
+# Bookingub - Microservices Demo
 
 A full-stack booking
