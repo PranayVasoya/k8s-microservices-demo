@@ -1,3 +1,2 @@
-# Bookingub - Microservices Demo
+# Bookhub - Microservices Demo
 
-A full-stack booking
