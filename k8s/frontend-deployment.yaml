@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: your-dockerhub-username/bookinub-frontend:latest
+        image: pranayvasoya/bookinub-frontend:latest
         ports:
         - containerPort: 80
         env:

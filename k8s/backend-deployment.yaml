@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: your-dockerhub-username/bookinub-backend:latest
+        image: pranayvasoya/bookinub-backend:latest
         ports:
         - containerPort: 5000
         env:
